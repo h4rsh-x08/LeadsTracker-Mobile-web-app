@@ -1,0 +1,108 @@
+body{
+
+    margin:0px;
+    padding: 10px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    min-width: 400px;
+    background : #FFEBB8;
+    border-radius: 30px;
+
+}
+#heading{
+    text-align: center;
+    margin: 20px auto;
+    color:#118AB2;
+    text-shadow: 0px 0px 2px;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration:underline dotted #C62828;
+    
+
+
+
+}
+
+#input-el {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #ABD2FA;
+    margin-bottom: 4px;
+    box-sizing: border-box;
+    color:#EA2264;
+}
+
+#input-btn {
+
+    margin-top:10px;
+    padding: 5px 8px;
+    color: #091540;
+    background: #ABD2FA;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0px 0px 3px #FEF2A0;
+    border-radius:10px;
+
+
+
+}
+
+#tab-btn{
+
+    margin-top:10px;
+    padding: 5px 8px;
+    color : #C4F7CA ;
+    background:  #3A86FF;
+    border: solid 2px #065084;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0px 0px 1px #FEF2A0;
+    border-radius:10px;
+
+
+
+
+}
+
+#delete-btn {
+    margin-top:10px;
+    padding: 5px 8px;
+    color:#ABD2FA ;
+    background:  #091540;
+    border: solid 2px #ABD2FA;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 3px #C62828;
+    border-radius:10px;
+
+
+
+
+
+}
+
+#ul-list{
+
+    color: black;
+}
+
+.marker li::marker{
+    font-size: 1.5em;
+    color :#EA2264;
+
+  }
+
+
+li a{
+    color: #112571;
+    font-size: 13px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+
+#buttons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+
+}
